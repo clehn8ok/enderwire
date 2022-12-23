@@ -7,6 +7,9 @@ This is an adaption of https://github.com/thomasfjen/enderwire_nonpro Files, wit
 -custom hinges, which open 180° 
 -y carriage has now the holes for the cablechain in the right spot
 
+Full build video:https://youtu.be/0t4zVtzr5Jg
+
+
 ![2022-12-23_13h25_12](https://user-images.githubusercontent.com/86553872/209335978-4c9f8d96-d37e-45fa-9151-639d9dcb148c.png)
 ![thumbnail_CL_3DPRINTER_YT](https://user-images.githubusercontent.com/86553872/209336007-210c6ead-59cf-4545-8521-bc29b0412d52.jpg)![DSC00157](https://user-images.githubusercontent.com/86553872/209336103-808b0661-3567-4e8c-8ebf-14569bd71bd6.JPG)
 
