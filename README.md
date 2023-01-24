@@ -1,11 +1,13 @@
 # enderwire
 
 This is an adaption of https://github.com/thomasfjen/enderwire_nonpro Files, with the following changes:
--Custom Toolhead -> Orbiter2 with a Rapido Hotend --> based on the Apogee Toolhead adapted onto the SW Carriage
--right motor mount modified--> shifts the whole motor towards the Z gantry, since the belt was not aligned with the OG mounts
--simpler Enclosure design with only Acrylic, no double sided tap, everything is screwed
--custom hinges, which open 180° 
--y carriage has now the holes for the cablechain in the right spot
+- Custom Toolhead -> Orbiter2 with a Rapido Hotend 
+  - based on the Apogee Toolhead adapted onto the SW Carriage 
+- right motor mount modified
+  - shifts the whole motor towards the Z gantry, since the belt was not aligned with the OG mounts 
+- simpler Enclosure design with only Acrylic, no double sided tap, everything is screwed 
+- custom hinges, which open 180° 
+- y carriage has now the holes for the cablechain in the right spot
 
 Full build video:https://youtu.be/0t4zVtzr5Jg
 
